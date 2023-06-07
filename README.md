@@ -1,5 +1,5 @@
 # 42-cursus
-42서울 과정
+42서울 본과정
 
 [![seoson's 42 stats](https://badge42.vercel.app/api/v2/cliijqp9v001108jm6c4mmneg/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
 
