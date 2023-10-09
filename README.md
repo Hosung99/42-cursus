@@ -18,4 +18,4 @@
 ## Exam
 |Circle|Exam|Score|Date|
 |----|----|:----:|:----:|
-|-|Exam Rank 0-|-|-|
+|2|Exam Rank 2|100|2023.09.26|
