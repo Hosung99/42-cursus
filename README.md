@@ -12,7 +12,7 @@
 |01|[born2beroot](https://github.com/42seoul-translation/subject_ko/blob/master/born2beroot/born2beroot.md)|[![seoson's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cliijqp9v001108jm6c4mmneg/project/3085019)](https://github.com/JaeSeoKim/badge42)|2023.05.21|
 |02|[push_swap](https://github.com/42seoul-translation/subject_ko/blob/master/push_swap/push_swap.ko.md)||2023.09.16
 |02|[minitalk](https://github.com/42seoul-translation/subject_ko/blob/master/minitalk/minitalk.md)||2023.09.18
-|02|[so_long](https://github.com/42seoul-translation/subject_ko/blob/master/so_long/so_long_ko.md)||
+|02|[FDF](https://github.com/42seoul-translation/subject_ko/blob/master/so_long/FDF.md)|| 2023.10.07
 
 
 ## Exam
