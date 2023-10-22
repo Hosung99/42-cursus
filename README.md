@@ -13,6 +13,8 @@
 |02|[push_swap](https://github.com/42seoul-translation/subject_ko/blob/master/push_swap/push_swap.ko.md)|[100](https://github.com/JaeSeoKim/badge42)|2023.09.16
 |02|[minitalk](https://github.com/42seoul-translation/subject_ko/blob/master/minitalk/minitalk.md)|[115](https://github.com/JaeSeoKim/badge42)|2023.09.18
 |02|[FDF](https://github.com/42seoul-translation/subject_ko/blob/master/fdf/fdf.ko.md)|[101](https://github.com/JaeSeoKim/badge42)| 2023.10.07
+|03|[Philosophers](https://github.com/42seoul-translation/subject_ko/blob/master/philosophers/philosophers.ko.md)|[100](https://github.com/JaeSeoKim/badge42)| 2023.10.14
+
 
 
 ## Exam
