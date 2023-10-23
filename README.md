@@ -1,7 +1,7 @@
 # 42-cursus
 42서울 본과정
 
-[![<seoson>'s 42 stats](https://badge.mediaplus.ma/darkblue/<seoson>)](https://github.com/oakoudad/badge42)
+[![seoson's 42 stats](https://badge.mediaplus.ma/colorfulwaves/seoson?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## Subject
 |Circle|Subject|Score|Date|
