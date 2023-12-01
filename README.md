@@ -14,6 +14,9 @@
 |02|[minitalk](https://github.com/42seoul-translation/subject_ko/blob/master/minitalk/minitalk.md)|[115](https://github.com/JaeSeoKim/badge42)|2023.09.18
 |02|[FDF](https://github.com/42seoul-translation/subject_ko/blob/master/fdf/fdf.ko.md)|[101](https://github.com/JaeSeoKim/badge42)| 2023.10.07
 |03|[Philosophers](https://github.com/42seoul-translation/subject_ko/blob/master/philosophers/philosophers.ko.md)|[100](https://github.com/JaeSeoKim/badge42)| 2023.10.14
+|04|[minishell](https://github.com/42seoul-translation/subject_ko/blob/master/miniRT/miniRT.ko.md)|[101](https://github.com/JaeSeoKim/badge42)| 2023.11.23
+|04|Netpractice|[100](https://github.com/JaeSeoKim/badge42)| 2023.11.28
+
 
 
 
@@ -21,3 +24,4 @@
 |Circle|Exam|Score|Date|
 |----|----|:----:|:----:|
 |2|Exam Rank 2|100|2023.09.26|
+|3|Exam Rank 3|100|2023.11.21|
