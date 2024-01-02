@@ -16,7 +16,7 @@
 |03|[Philosophers](https://github.com/42seoul-translation/subject_ko/blob/master/philosophers/philosophers.ko.md)|[100](https://github.com/JaeSeoKim/badge42)| 2023.10.14
 |03|[minishell](https://github.com/42seoul-translation/subject_ko/blob/master/miniRT/miniRT.ko.md)|[101](https://github.com/JaeSeoKim/badge42)| 2023.11.23
 |04|Netpractice|[100](https://github.com/JaeSeoKim/badge42)| 2023.11.28
-|04|miniRT|[100](https://github.com/JaeSeoKim/badge42)| 2023.12.15
+|04|miniRT|[110](https://github.com/JaeSeoKim/badge42)| 2023.12.15
 
 
 
