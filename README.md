@@ -17,8 +17,7 @@
 |03|[minishell](https://github.com/42seoul-translation/subject_ko/blob/master/miniRT/miniRT.ko.md)|[101](https://github.com/JaeSeoKim/badge42)| 2023.11.23
 |04|Netpractice|[100](https://github.com/JaeSeoKim/badge42)| 2023.11.28
 |04|miniRT|[110](https://github.com/JaeSeoKim/badge42)| 2023.12.15
-
-
+|04|CPP 0~4|[100](https://github.com/JaeSeoKim/badge42)| 2024.1.6
 
 
 ## Exam
@@ -26,5 +25,5 @@
 |----|----|:----:|:----:|
 |2|Exam Rank 2|100|2023.09.26|
 |3|Exam Rank 3|100|2023.11.21|
-|4|Exam Rank 3|100|2023.12.19|
+|4|Exam Rank 4|100|2023.12.19|
 
