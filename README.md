@@ -21,6 +21,7 @@
 |04|CPP 0~4|[![seoson's 42 CPP Module 04 Score](https://badge42.coday.fr/api/v2/clt8rqcc21450401p4a4u6sut1/project/3462878)](https://github.com/Coday-meric/badge42)| 2024.1.6
 |05|FT_IRC|[![seoson's 42 ft_irc Score](https://badge42.coday.fr/api/v2/clt8rqcc21450401p4a4u6sut1/project/3521143)](https://github.com/Coday-meric/badge42)| 2024.2.28
 |05|CPP 5~9|[![seoson's 42 CPP Module 09 Score](https://badge42.coday.fr/api/v2/clt8rqcc21450401p4a4u6sut1/project/3529653)](https://github.com/Coday-meric/badge42)| 2024.2.29
+|05|inception|[![seoson's 42 Inception Score](https://badge42.coday.fr/api/v2/clt8rqcc21450401p4a4u6sut1/project/3466446)](https://github.com/Coday-meric/badge42)| 2024.4.07
 
 
 
@@ -30,4 +31,5 @@
 |2|Exam Rank 2|[![seoson's 42 Exam Rank 02 Score](https://badge42.coday.fr/api/v2/clt8rqcc21450401p4a4u6sut1/project/3102248)](https://github.com/Coday-meric/badge42)|2023.09.26|
 |3|Exam Rank 3|[![seoson's 42 Exam Rank 02 Score](https://badge42.coday.fr/api/v2/clt8rqcc21450401p4a4u6sut1/project/3102248)](https://github.com/Coday-meric/badge42)|2023.11.21|
 |4|Exam Rank 4|[![seoson's 42 Exam Rank 02 Score](https://badge42.coday.fr/api/v2/clt8rqcc21450401p4a4u6sut1/project/3102248)](https://github.com/Coday-meric/badge42)|2023.12.19|
+|5|Exam Rank 5|[![seoson's 42 Exam Rank 02 Score](https://badge42.coday.fr/api/v2/clt8rqcc21450401p4a4u6sut1/project/3102248)](https://github.com/Coday-meric/badge42)|2024.4.30|
 
